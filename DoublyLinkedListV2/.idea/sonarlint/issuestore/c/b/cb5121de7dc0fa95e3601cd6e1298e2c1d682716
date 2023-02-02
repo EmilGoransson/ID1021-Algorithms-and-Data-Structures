@@ -1,0 +1,9 @@
+
+{
+java:S1845$"^Rename method "generatelist" to prevent any misunderstanding/clash with method "generateList".(ÓñÈÁ8ÆĞ÷Ö·0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(µ³¤¡ùÿÿÿÿ8ÊĞ÷Ö·0
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8ĞĞ÷Ö·0
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8×Ğ÷Ö·0

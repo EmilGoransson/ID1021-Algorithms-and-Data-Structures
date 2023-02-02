@@ -1,0 +1,15 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ÿõ˜É¸0
+U
+java:S1118":Add a private constructor to hide the implicit public one.(µ³¤¡ùÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(–áÍÈ
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŒ˜™ûÿÿÿÿ8‡ö˜É¸0
+:
+java:S21191"Save and re-use this "Random".(¼İÅf8®éšÉ¸0
+;
+java:S21199"Save and re-use this "Random".(–áÍÈ8¦îÎ¸0
+;
+java:S2119C"Save and re-use this "Random".(–áÍÈ8É½•Î¸0
+F
+java:S1144B")Remove this unused private "keys" method.(¤­‚¸8Ê½•Î¸0

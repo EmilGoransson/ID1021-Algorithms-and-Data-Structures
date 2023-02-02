@@ -1,0 +1,15 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "constantSize".(¾âÁ’þÿÿÿÿ
+L
+java:S1481"1Remove this unused "constantSize" local variable.(¾âÁ’þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‚ŽÌ¤
+V	java:S125"<This block of commented-out lines of code should be removed.(œûÊìúÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(ŸÏ­ üÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ò³¾¥úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð1
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ

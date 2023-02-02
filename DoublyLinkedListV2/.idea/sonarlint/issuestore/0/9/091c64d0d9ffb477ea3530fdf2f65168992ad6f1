@@ -1,0 +1,14 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†øŠ
+c
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(×íž¦
+=
+java:S1444"'Make this "public static a" field final(×íž¦
+Z
+java:S21848"ECast one of the operands of this subtraction operation to a "double".(ðÕ€[
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®ÃñJ
+4
+java:S2119$"Save and re-use this "Random".(–áÍÈ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

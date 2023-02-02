@@ -1,0 +1,74 @@
+
+d
+java:S1192’"MDefine a constant instead of duplicating this literal "| Avg Time: " 6 times.(¾ã«
+s
+java:S1192…"WDefine a constant instead of duplicating this literal "| Avg Time per depth: " 6 times.(ñ™ïŒıÿÿÿÿ
+d
+java:S1192("IDefine a constant instead of duplicating this literal " Time = " 4 times.(úµ’ûşÿÿÿÿ
+r
+java:S1192("WDefine a constant instead of duplicating this literal "Queue_1_Add: N Size = " 4 times.(úµ’ûşÿÿÿÿ
+V
+java:S3518’"?Make sure "depth0Add" can't be zero before doing this division.(¾ã«
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô…¹
+4
+java:S2119"Save and re-use this "Random".(–áÍÈ
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åí©²
+4
+java:S2119."Save and re-use this "Random".(–áÍÈ
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­î¹œ
+O
+java:S1854D"9Remove this useless assignment to local variable "sizes".(û¢•ç
+@
+java:S1481D"*Remove this unused "sizes" local variable.(û¢•ç
+4
+java:S2119E"Save and re-use this "Random".(–áÍÈ
+D
+java:S1905R")Remove this unnecessary cast to "double".(ÏìÖ»øÿÿÿÿ
+c	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œìßÏ
+M
+java:S1854Z"7Remove this useless assignment to local variable "rnd".(–áÍÈ
+O
+java:S1854Y"9Remove this useless assignment to local variable "sizes".(û¢•ç
+P
+java:S1854a"5Remove this useless assignment to local variable "a".(†ÜÒıÿÿÿÿ
+@
+java:S1481Y"*Remove this unused "sizes" local variable.(û¢•ç
+4
+java:S2119Z"Save and re-use this "Random".(–áÍÈ
+>
+java:S1481Z"(Remove this unused "rnd" local variable.(–áÍÈ
+A
+java:S1481a"&Remove this unused "a" local variable.(†ÜÒıÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "a".(±î¢Ì
+9
+java:S2119l"Save and re-use this "Random".(ğ¸´şÿÿÿÿ
+<
+java:S1481"&Remove this unused "a" local variable.(±î¢Ì
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ñÀÌ¢øÿÿÿÿ
+5
+java:S2119"Save and re-use this "Random".(–áÍÈ
+E
+java:S1481¡")Remove this unused "sum6" local variable.(¤â¾Õøÿÿÿÿ
+B
+java:S1481¨"+Remove this unused "depth6" local variable.(ØÈîû
+E
+java:S1481±".Remove this unused "depth6Add" local variable.(×ı´ß
+C
+java:S1481¸",Remove this unused "sum6Add" local variable.(Ô÷Ş
+=	java:S131À""Add a default case to this switch.(ãıÌ¼şÿÿÿÿ
+=	java:S131ã""Add a default case to this switch.(·‰ÕÏûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÉ©A
+L
+java:S1854²"5Remove this useless assignment to local variable "a".(±î¢Ì
+:
+java:S2119Ÿ"Save and re-use this "Random".(ğ¸´şÿÿÿÿ
+=
+java:S1481²"&Remove this unused "a" local variable.(±î¢Ì
+i	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©œ¯úÿÿÿÿ
+:
+java:S2119Â"Save and re-use this "Random".(ğ¸´şÿÿÿÿ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÊü©ùÿÿÿÿ
+5
+java:S2119Ø"Save and re-use this "Random".(–áÍÈ
