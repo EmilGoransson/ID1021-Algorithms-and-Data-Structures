@@ -1,9 +1,9 @@
 
-@
-src/Methods.java,0\3\03d60a077afdae109add3d2d7fa4581434b5c660
-E
-src/DoublyLinked.java,a\1\a1d1828e84974b899245bfee18f9d147fc822d4f
-D
-src/LinkedLists.java,5\5\558864f24a64c6aac39c9586a210aa554fd16a01
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+V
+&DoublyLinkedList/src/DoublyLinked.java,c\5\c58f2f331e2e475099dec7b884a3999da4c73a12
+U
+%DoublyLinkedList/src/LinkedLists.java,5\b\5b84917f0e176e733d4619fa9e1aa786698191b4
+Q
+!DoublyLinkedList/src/Methods.java,c\b\cb5121de7dc0fa95e3601cd6e1298e2c1d682716
+N
+DoublyLinkedList/src/Main.java,0\9\091c64d0d9ffb477ea3530fdf2f65168992ad6f1
